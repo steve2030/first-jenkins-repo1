@@ -9,6 +9,8 @@ public class Hello{
         System.out.println("my age is:" +age);
         
         System.out.println("i come from a sfamily of:" +family);
+        
+        System.out.println("i have a:" +family);
          
 
     }
