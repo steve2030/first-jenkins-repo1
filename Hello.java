@@ -4,7 +4,10 @@ public class Hello{
             System.out.println("hello mr steve..."+i);
         }
         int age=56;
+        int wealth=78000
         System.out.println("my age is:" +age);
+        Systsem.out.println("my wealth is:" +wealth);
+         
 
     }
 }
