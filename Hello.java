@@ -8,7 +8,7 @@ public class Hello{
         int family= 56;
         System.out.println("my age is:" +age);
         
-        Systsem.out.println("i come from a sfamily of:" +family);
+        System.out.println("i come from a sfamily of:" +family);
          
 
     }
